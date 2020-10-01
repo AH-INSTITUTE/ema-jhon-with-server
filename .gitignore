@@ -1,0 +1,4 @@
+/ema-john-client/node_modules/
+/ema-john-server/node_modules/
+# /ema-john-server/configs
+# /ema-john-server/.env
